@@ -122,6 +122,7 @@ include('BCECriterion.lua')
 include('CrossEntropyCriterion.lua')
 
 include('StochasticGradient.lua')
+include('MiniBatchSGD.lua')
 
 include('MM.lua')
 
